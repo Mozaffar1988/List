@@ -1,0 +1,8 @@
+D:\UIU\Basis Home Work\HomeWorkList\HomeWorkList\bin\Debug\HomeWorkList.exe.config
+D:\UIU\Basis Home Work\HomeWorkList\HomeWorkList\bin\Debug\HomeWorkList.exe
+D:\UIU\Basis Home Work\HomeWorkList\HomeWorkList\bin\Debug\HomeWorkList.pdb
+D:\UIU\Basis Home Work\HomeWorkList\HomeWorkList\obj\Debug\HomeWorkList.NameListUI.resources
+D:\UIU\Basis Home Work\HomeWorkList\HomeWorkList\obj\Debug\HomeWorkList.Properties.Resources.resources
+D:\UIU\Basis Home Work\HomeWorkList\HomeWorkList\obj\Debug\HomeWorkList.csproj.GenerateResource.Cache
+D:\UIU\Basis Home Work\HomeWorkList\HomeWorkList\obj\Debug\HomeWorkList.exe
+D:\UIU\Basis Home Work\HomeWorkList\HomeWorkList\obj\Debug\HomeWorkList.pdb
